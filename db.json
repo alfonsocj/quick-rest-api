@@ -11,9 +11,9 @@
         "2_0": {
           "change_notes": "The following courses are now optional: Sencha ExtJS, Sencha Touch, KnockOut, and Backbone JS",
           "name": "Desarrollador Javascript",
-          "description": "JavaScript se está apoderando de la web. Aprende a construir sitios web atractivos e interactivos de principio a fin. El Certificado en JavaScript te da las herramientas de programación y diseño esenciales para crear sitios web dinámicos.",
+          "description": "JavaScript se está apoderando de la web...",
           "job_keywords": "",
-          "image_url": "https://s3.amazonaws.com/nextu-website-assets/images/program-icons/javascript_icon.svg",
+          "image_url": "https://url.com/img/program-icons/javascript_icon.svg",
           "hex_color": "#78d4ff",
           "full_icon": false,
           "tutorcafe_access": true,
@@ -24,75 +24,33 @@
           "core_courses": [{
               "position": 0,
               "idnumber": "JAVS10101",
-              "image_url": "https://s3.amazonaws.com/nextu-website-assets/images/course-badges/JAVASCRIPT/JS-01-JavaScript+lo+esencial.png",
+              "image_url": "https://url.com/img/bdg/JAVASCRIPT/JS-01-JavaScript+lo+esencial.png",
               "optional": false
             },
             {
               "position": 1,
               "idnumber": "JAVS10201",
-              "image_url": "https://s3.amazonaws.com/nextu-website-assets/images/course-badges/JAVASCRIPT/JS-02-El+DOM+y+el+BOM.png",
+              "image_url": "https://url.com/img/bdg/JAVASCRIPT/JS-02-El+DOM+y+el+BOM.png",
               "optional": false
             },
             {
               "position": 2,
               "idnumber": "JAVS10301",
-              "image_url": "https://s3.amazonaws.com/nextu-website-assets/images/course-badges/JAVASCRIPT/JS-03-jQuery.png",
-              "optional": false
-            },
-            {
-              "position": 3,
-              "idnumber": "JAVS10401",
-              "image_url": "https://s3.amazonaws.com/nextu-website-assets/images/course-badges/JAVASCRIPT/JS-04-jQuery+UI.png",
-              "optional": false
-            },
-            {
-              "position": 4,
-              "idnumber": "JAVS10501",
-              "image_url": "https://s3.amazonaws.com/nextu-website-assets/images/course-badges/JAVASCRIPT/JS-05-jQuery+mobile.png",
-              "optional": false
-            },
-            {
-              "position": 5,
-              "idnumber": "JAVS10601",
-              "image_url": "https://s3.amazonaws.com/nextu-website-assets/images/course-badges/JAVASCRIPT/JS-06-Angular+JS.png",
-              "optional": false
-            },
-            {
-              "position": 6,
-              "optional": true,
-              "image_url": "https://s3.amazonaws.com/nextu-website-assets/images/course-badges/JAVASCRIPT/JS-09-KnockOut.png",
-              "idnumber": "JAVS10901"
-            },
-            {
-              "position": 7,
-              "optional": true,
-              "image_url": "https://s3.amazonaws.com/nextu-website-assets/images/course-badges/JAVASCRIPT/JS-10-Backbone.JS.png",
-              "idnumber": "JAVS11001"
-            },
-            {
-              "position": 8,
-              "idnumber": "JAVS11101",
-              "image_url": "https://s3.amazonaws.com/nextu-website-assets/images/course-badges/JAVASCRIPT/JS-11-NodeJSI.png",
-              "optional": false
-            },
-            {
-              "position": 9,
-              "idnumber": "JAVS11201",
-              "image_url": "https://s3.amazonaws.com/nextu-website-assets/images/course-badges/JAVASCRIPT/JS-12-NodeJSII.png",
+              "image_url": "https://url.com/img/bdg/JAVASCRIPT/JS-03-jQuery.png",
               "optional": false
             }
           ],
           "extra_courses": [{
-              "image_url": "https://s3.amazonaws.com/nextu-website-assets/images/course-badges/JAVASCRIPT/JS-07-ExtJS.png",
+              "image_url": "https://url.com/img/bdg/JAVASCRIPT/JS-07-ExtJS.png",
               "idnumber": "JAVS10701"
             },
             {
-              "image_url": "https://s3.amazonaws.com/nextu-website-assets/images/course-badges/JAVASCRIPT/JS-08-Sencha.png",
+              "image_url": "https://url.com/img/bdg/JAVASCRIPT/JS-08-Sencha.png",
               "idnumber": "JAVS10801"
             },
             {
               "idnumber": "GITS_Y16V01_C01",
-              "image_url": "https://s3.amazonaws.com/nextu-website-assets/images/course-badges/GIT/GIT-01-Control-de-Versiones-y-Git.png"
+              "image_url": "https://url.com/img/bdg/GIT/GIT-01-Control-de-Versiones-y-Git.png"
             }
           ],
           "next": "",
@@ -104,79 +62,19 @@
           "version_id": "1_0",
           "extra_courses": [{
             "idnumber": "GITS_Y16V01_C01",
-            "image_url": "https://s3.amazonaws.com/nextu-website-assets/images/course-badges/GIT/GIT-01-Control-de-Versiones-y-Git.png"
+            "image_url": "https://url.com/img/bdg/GIT/GIT-01-Control-de-Versiones-y-Git.png"
           }],
           "core_courses": [{
               "idnumber": "JAVS10101",
-              "image_url": "https://s3.amazonaws.com/nextu-website-assets/images/course-badges/JAVASCRIPT/JS-01-JavaScript+lo+esencial.png",
+              "image_url": "https://url.com/img/bdg/JAVASCRIPT/JS-01-JavaScript+lo+esencial.png",
               "optional": false,
               "position": 0
             },
             {
               "idnumber": "JAVS10201",
-              "image_url": "https://s3.amazonaws.com/nextu-website-assets/images/course-badges/JAVASCRIPT/JS-02-El+DOM+y+el+BOM.png",
+              "image_url": "https://url.com/img/bdg/JAVASCRIPT/JS-02-El+DOM+y+el+BOM.png",
               "optional": false,
               "position": 1
-            },
-            {
-              "idnumber": "JAVS10301",
-              "image_url": "https://s3.amazonaws.com/nextu-website-assets/images/course-badges/JAVASCRIPT/JS-03-jQuery.png",
-              "optional": false,
-              "position": 2
-            },
-            {
-              "idnumber": "JAVS10401",
-              "image_url": "https://s3.amazonaws.com/nextu-website-assets/images/course-badges/JAVASCRIPT/JS-04-jQuery+UI.png",
-              "optional": false,
-              "position": 3
-            },
-            {
-              "idnumber": "JAVS10501",
-              "image_url": "https://s3.amazonaws.com/nextu-website-assets/images/course-badges/JAVASCRIPT/JS-05-jQuery+mobile.png",
-              "optional": false,
-              "position": 4
-            },
-            {
-              "idnumber": "JAVS10601",
-              "image_url": "https://s3.amazonaws.com/nextu-website-assets/images/course-badges/JAVASCRIPT/JS-06-Angular+JS.png",
-              "optional": false,
-              "position": 5
-            },
-            {
-              "idnumber": "JAVS10701",
-              "image_url": "https://s3.amazonaws.com/nextu-website-assets/images/course-badges/JAVASCRIPT/JS-07-ExtJS.png",
-              "optional": false,
-              "position": 6
-            },
-            {
-              "idnumber": "JAVS10801",
-              "image_url": "https://s3.amazonaws.com/nextu-website-assets/images/course-badges/JAVASCRIPT/JS-08-Sencha.png",
-              "optional": false,
-              "position": 7
-            },
-            {
-              "idnumber": "JAVS10901",
-              "image_url": "https://s3.amazonaws.com/nextu-website-assets/images/course-badges/JAVASCRIPT/JS-09-KnockOut.png",
-              "optional": false,
-              "position": 8
-            },
-            {
-              "idnumber": "JAVS11001",
-              "image_url": "https://s3.amazonaws.com/nextu-website-assets/images/course-badges/JAVASCRIPT/JS-10-Backbone.JS.png",
-              "optional": false,
-              "position": 9
-            },
-            {
-              "idnumber": "JAVS11101",
-              "image_url": "https://s3.amazonaws.com/nextu-website-assets/images/course-badges/JAVASCRIPT/JS-11-NodeJSI.png",
-              "optional": false,
-              "position": 10
-            },
-            {
-              "idnumber": "JAVS11201",
-              "image_url": "https://s3.amazonaws.com/nextu-website-assets/images/course-badges/JAVASCRIPT/JS-12-NodeJSII.png",
-              "optional": false,
-              "position": 11
             }
           ],
           "template": "Javascript",
@@ -186,9 +84,9 @@
           "tutorcafe_access": true,
           "full_icon": false,
           "hex_color": "#78d4ff",
-          "image_url": "https://s3.amazonaws.com/nextu-website-assets/images/program-icons/javascript_icon.svg",
+          "image_url": "https://url.com/img/program-icons/javascript_icon.svg",
           "job_keywords": "",
-          "description": "JavaScript se está apoderando de la web. Aprende a construir sitios web atractivos e interactivos de principio a fin. El Certificado en JavaScript te da las herramientas de programación y diseño esenciales para crear sitios web dinámicos.",
+          "description": "JavaScript se está apoderando de la web.",
           "name": "Desarrollador Javascript",
           "change_notes": "Cambio Zopim a LiveChat (MariaPaulaQuicasan)"
         }
@@ -213,84 +111,30 @@
           "structure_unit": "courses",
           "extra_courses": [{
             "idnumber": "GITS_Y16V01_C01",
-            "image_url": "https://s3.amazonaws.com/nextu-website-assets/images/course-badges/GIT/GIT-01-Control-de-Versiones-y-Git.png"
+            "image_url": "https://url.com/img/bdg/GIT/GIT-01-Control-de-Versiones-y-Git.png"
           }],
           "core_courses": [{
               "position": 0,
               "optional": true,
-              "image_url": "https://s3.amazonaws.com/nextu-website-assets/images/course-badges/ANDROID_V2/AND-00-Intro-Java.png",
+              "image_url": "https://url.com/img/bdg/ANDROID_V2/AND-00-Intro-Java.png",
               "idnumber": "JAVS_Y16V01_C01"
             },
             {
               "position": 1,
               "idnumber": "ANDS_Y16V01_C01",
-              "image_url": "https://s3.amazonaws.com/nextu-website-assets/images/course-badges/ANDROID_V2/AND-01-Intro-Desarrollo-Android.png",
+              "image_url": "https://url.com/img/bdg/ANDROID_V2/AND-01-Intro-Desarrollo-Android.png",
               "optional": false
             },
             {
               "position": 2,
               "idnumber": "ANDS_Y16V01_C02",
-              "image_url": "https://s3.amazonaws.com/nextu-website-assets/images/course-badges/ANDROID_V2/AND-02-Arquitectura.png",
+              "image_url": "https://url.com/img/bdg/ANDROID_V2/AND-02-Arquitectura.png",
               "optional": false
             },
             {
               "position": 3,
               "idnumber": "ANDS_Y16V01_C03",
-              "image_url": "https://s3.amazonaws.com/nextu-website-assets/images/course-badges/ANDROID_V2/AND-03-Fragmentos-Vistas.png",
-              "optional": false
-            },
-            {
-              "position": 4,
-              "idnumber": "ANDS_Y16V01_C04",
-              "image_url": "https://s3.amazonaws.com/nextu-website-assets/images/course-badges/ANDROID_V2/AND-04-Recursos-de-Diseno.png",
-              "optional": false
-            },
-            {
-              "position": 5,
-              "idnumber": "ANDS_Y16V01_C05",
-              "image_url": "https://s3.amazonaws.com/nextu-website-assets/images/course-badges/ANDROID_V2/AND-05-Interfaces-de-Usuario.png",
-              "optional": false
-            },
-            {
-              "position": 6,
-              "idnumber": "ANDS_Y16V01_C06",
-              "image_url": "https://s3.amazonaws.com/nextu-website-assets/images/course-badges/ANDROID_V2/AND-06-Persistencia.png",
-              "optional": false
-            },
-            {
-              "position": 7,
-              "idnumber": "ANDS_Y16V01_C07",
-              "image_url": "https://s3.amazonaws.com/nextu-website-assets/images/course-badges/ANDROID_V2/AND-07-Almacenamiento.png",
-              "optional": false
-            },
-            {
-              "position": 8,
-              "idnumber": "ANDS_Y16V01_C08",
-              "image_url": "https://s3.amazonaws.com/nextu-website-assets/images/course-badges/ANDROID_V2/AND-08-Tareas-en-Segundo-Plano.png",
-              "optional": false
-            },
-            {
-              "position": 9,
-              "idnumber": "ANDS_Y16V01_C09",
-              "image_url": "https://s3.amazonaws.com/nextu-website-assets/images/course-badges/ANDROID_V2/AND-09-Animaciones-Multimedia.png",
-              "optional": false
-            },
-            {
-              "position": 10,
-              "idnumber": "ANDS_Y16V01_C10",
-              "image_url": "https://s3.amazonaws.com/nextu-website-assets/images/course-badges/ANDROID_V2/AND-10-Localizacion-Sensores.png",
-              "optional": false
-            },
-            {
-              "position": 11,
-              "idnumber": "ANDS_Y16V01_C11",
-              "image_url": "https://s3.amazonaws.com/nextu-website-assets/images/course-badges/ANDROID_V2/AND-11-Informacion-de-Usuario.png",
-              "optional": false
-            },
-            {
-              "position": 12,
-              "idnumber": "ANDS_Y16V01_C12",
-              "image_url": "https://s3.amazonaws.com/nextu-website-assets/images/course-badges/ANDROID_V2/AND-12-Temas-Avanzados.png",
+              "image_url": "https://url.com/img/bdg/ANDROID_V2/AND-03-Fragmentos-Vistas.png",
               "optional": false
             }
           ],
@@ -301,18 +145,18 @@
           "tutorcafe_access": true,
           "full_icon": false,
           "hex_color": "#6dead0",
-          "image_url": "https://s3.amazonaws.com/nextu-website-assets/images/program-icons/android_icon.svg",
+          "image_url": "https://url.com/img/program-icons/android_icon.svg",
           "job_keywords": "",
-          "description": "Esta certificación te da las herramientas necesarias para diseñar e implementar aplicaciones Android para dispositivos diversos, utilizando el entorno de desarrollo Android Studio. En este programa aprenderás los aspectos fundamentales para crear aplicaciones Android interactivas, dinámicas y exitosas utilizando técnicas para el manejo de los recursos, datos, segundos planos, localización, sensores, animaciones, gráficos, multimedia y monetización.",
+          "description": "Esta certificación te da las herramientas necesarias para diseñar e implementar aplicaciones Android.",
           "name": "Desarrollador Android",
           "change_notes": "This version uses Java as an Optional course, which means it's part of the student's learning path."
         },
         "1_0": {
           "change_notes": "This version uses Java as an Extra course.",
           "name": "Desarrollador Android",
-          "description": "Esta certificación te da las herramientas necesarias para diseñar e implementar aplicaciones Android para dispositivos diversos, utilizando el entorno de desarrollo Android Studio. En este programa aprenderás los aspectos fundamentales para crear aplicaciones Android interactivas, dinámicas y exitosas utilizando técnicas para el manejo de los recursos, datos, segundos planos, localización, sensores, animaciones, gráficos, multimedia y monetización.",
+          "description": "Esta certificación te da las herramientas...",
           "job_keywords": "",
-          "image_url": "https://s3.amazonaws.com/nextu-website-assets/images/program-icons/android_icon.svg",
+          "image_url": "https://url.com/img/program-icons/android_icon.svg",
           "hex_color": "#6dead0",
           "full_icon": false,
           "tutorcafe_access": true,
@@ -322,86 +166,24 @@
           "template": "Android V2",
           "core_courses": [{
               "optional": false,
-              "image_url": "https://s3.amazonaws.com/nextu-website-assets/images/course-badges/ANDROID_V2/AND-01-Intro-Desarrollo-Android.png",
+              "image_url": "https://url.com/img/bdg/ANDROID_V2/AND-01-Intro-Desarrollo-Android.png",
               "idnumber": "ANDS_Y16V01_C01",
               "position": 0
             },
             {
               "optional": false,
-              "image_url": "https://s3.amazonaws.com/nextu-website-assets/images/course-badges/ANDROID_V2/AND-02-Arquitectura.png",
+              "image_url": "https://url.com/img/bdg/ANDROID_V2/AND-02-Arquitectura.png",
               "idnumber": "ANDS_Y16V01_C02",
               "position": 1
             },
             {
               "optional": false,
-              "image_url": "https://s3.amazonaws.com/nextu-website-assets/images/course-badges/ANDROID_V2/AND-03-Fragmentos-Vistas.png",
+              "image_url": "https://url.com/img/bdg/ANDROID_V2/AND-03-Fragmentos-Vistas.png",
               "idnumber": "ANDS_Y16V01_C03",
               "position": 2
-            },
-            {
-              "optional": false,
-              "image_url": "https://s3.amazonaws.com/nextu-website-assets/images/course-badges/ANDROID_V2/AND-04-Recursos-de-Diseno.png",
-              "idnumber": "ANDS_Y16V01_C04",
-              "position": 3
-            },
-            {
-              "optional": false,
-              "image_url": "https://s3.amazonaws.com/nextu-website-assets/images/course-badges/ANDROID_V2/AND-05-Interfaces-de-Usuario.png",
-              "idnumber": "ANDS_Y16V01_C05",
-              "position": 4
-            },
-            {
-              "optional": false,
-              "image_url": "https://s3.amazonaws.com/nextu-website-assets/images/course-badges/ANDROID_V2/AND-06-Persistencia.png",
-              "idnumber": "ANDS_Y16V01_C06",
-              "position": 5
-            },
-            {
-              "optional": false,
-              "image_url": "https://s3.amazonaws.com/nextu-website-assets/images/course-badges/ANDROID_V2/AND-07-Almacenamiento.png",
-              "idnumber": "ANDS_Y16V01_C07",
-              "position": 6
-            },
-            {
-              "optional": false,
-              "image_url": "https://s3.amazonaws.com/nextu-website-assets/images/course-badges/ANDROID_V2/AND-08-Tareas-en-Segundo-Plano.png",
-              "idnumber": "ANDS_Y16V01_C08",
-              "position": 7
-            },
-            {
-              "optional": false,
-              "image_url": "https://s3.amazonaws.com/nextu-website-assets/images/course-badges/ANDROID_V2/AND-09-Animaciones-Multimedia.png",
-              "idnumber": "ANDS_Y16V01_C09",
-              "position": 8
-            },
-            {
-              "optional": false,
-              "image_url": "https://s3.amazonaws.com/nextu-website-assets/images/course-badges/ANDROID_V2/AND-10-Localizacion-Sensores.png",
-              "idnumber": "ANDS_Y16V01_C10",
-              "position": 9
-            },
-            {
-              "optional": false,
-              "image_url": "https://s3.amazonaws.com/nextu-website-assets/images/course-badges/ANDROID_V2/AND-11-Informacion-de-Usuario.png",
-              "idnumber": "ANDS_Y16V01_C11",
-              "position": 10
-            },
-            {
-              "optional": false,
-              "image_url": "https://s3.amazonaws.com/nextu-website-assets/images/course-badges/ANDROID_V2/AND-12-Temas-Avanzados.png",
-              "idnumber": "ANDS_Y16V01_C12",
-              "position": 11
             }
           ],
-          "extra_courses": [{
-              "image_url": "https://s3.amazonaws.com/nextu-website-assets/images/course-badges/ANDROID_V2/AND-00-Intro-Java.png",
-              "idnumber": "JAVS_Y16V01_C01"
-            },
-            {
-              "image_url": "https://s3.amazonaws.com/nextu-website-assets/images/course-badges/GIT/GIT-01-Control-de-Versiones-y-Git.png",
-              "idnumber": "GITS_Y16V01_C01"
-            }
-          ],
+          "extra_courses": [],
           "next": "1_1",
           "structure_unit": "courses",
           "version_id": "1_0"
@@ -424,9 +206,9 @@
         "1_0": {
           "change_notes": "",
           "name": "Marketing Digital",
-          "description": "El certificado de Marketing Digital cubre las competencias básicas para diagnosticar el negocio y diseñar estrategias de mercadeo digital teniendo en cuenta el mercado al que está dirigido, la optimización del presupuesto y la evaluación de su impacto. ",
+          "description": "El certificado de Marketing Digital.",
           "job_keywords": "",
-          "image_url": "https://s3.amazonaws.com/nextu-website-assets/images/program-icons/marketing_digital_icon.svg",
+          "image_url": "https://url.com/img/program-icons/marketing_digital_icon.svg",
           "hex_color": "#ff8800",
           "full_icon": false,
           "tutorcafe_access": true,
@@ -436,51 +218,15 @@
           "template": "Marketing Digital",
           "core_courses": [{
               "optional": false,
-              "image_url": "https://s3.amazonaws.com/nextu-website-assets/images/course-badges/DIGITAL_MARKETING/DMK-01-Fundamentos-Mercadeo.png",
+              "image_url": "https://url.com/img/bdg/DIGITAL_MARKETING/DMK-01-Fundamentos-Mercadeo.png",
               "idnumber": "DMKS_Y16V01_C01",
               "position": 0
             },
             {
               "optional": false,
-              "image_url": "https://s3.amazonaws.com/nextu-website-assets/images/course-badges/DIGITAL_MARKETING/DMK-02-Mercadeo-Redes-Sociales.png",
+              "image_url": "https://url.com/img/bdg/DIGITAL_MARKETING/DMK-02-Mercadeo-Redes-Sociales.png",
               "idnumber": "DMKS_Y16V01_C02",
               "position": 1
-            },
-            {
-              "optional": false,
-              "image_url": "https://s3.amazonaws.com/nextu-website-assets/images/course-badges/DIGITAL_MARKETING/DMK-03-Diseno-Contenidos.png",
-              "idnumber": "DMKS_Y16V01_C03",
-              "position": 2
-            },
-            {
-              "optional": false,
-              "image_url": "https://s3.amazonaws.com/nextu-website-assets/images/course-badges/DIGITAL_MARKETING/DMK-04-Web-Analytics.png",
-              "idnumber": "DMKS_Y16V01_C04",
-              "position": 3
-            },
-            {
-              "optional": false,
-              "image_url": "https://s3.amazonaws.com/nextu-website-assets/images/course-badges/DIGITAL_MARKETING/DMK-05-Email-Marketing.png",
-              "idnumber": "DMKS_Y16V01_C05",
-              "position": 4
-            },
-            {
-              "optional": false,
-              "image_url": "https://s3.amazonaws.com/nextu-website-assets/images/course-badges/DIGITAL_MARKETING/DMK-06-Publicidad-Medios-Digitales.png",
-              "idnumber": "DMKS_Y16V01_C06",
-              "position": 5
-            },
-            {
-              "optional": false,
-              "image_url": "https://s3.amazonaws.com/nextu-website-assets/images/course-badges/DIGITAL_MARKETING/DMK-07-SEO-SEM.png",
-              "idnumber": "DMKS_Y16V01_C07",
-              "position": 6
-            },
-            {
-              "optional": false,
-              "image_url": "https://s3.amazonaws.com/nextu-website-assets/images/course-badges/DIGITAL_MARKETING/DMK-08-Plan-Marketing-Digital.png",
-              "idnumber": "DMKS_Y16V01_C08",
-              "position": 7
             }
           ],
           "extra_courses": [],
