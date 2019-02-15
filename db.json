@@ -200,103 +200,6 @@
     },
     {
       "_id": {
-        "$oid": "58580c591c647d316861e40f"
-      },
-      "product_id": "P_TUTOR_RESOURCE",
-      "visibility": true,
-      "type": "academic",
-      "current_version": "2_1",
-      "versions": {
-        "2_0": {
-          "change_notes": "Added Onboarding course.",
-          "name": "Centro de Recursos para el Tutor",
-          "description": "Como tutor, eres parte fundamental del equipo académico de NextU y actor esencial en la experiencia del estudiante, gracias a ti nuestros estudiantes pueden participar en un aprendizaje activo que los conduce al éxito en sus actividades académicas y profesionales.\n\nDel mismo modo, para nosotros es muy importante tu crecimiento y desarrollo,  por eso hemos creado este Centro de Recursos para el Tutor, una herramienta donde encontrarás documentación e información valiosa para apoyar el desempeño de tus actividades en NextU.",
-          "job_keywords": "",
-          "image_url": "https://s3.amazonaws.com/nextu-website-assets/images/program-icons/tutor_center_icon.jpg",
-          "hex_color": "#B1DA2C",
-          "full_icon": false,
-          "tutorcafe_access": false,
-          "tutorchat_access": false,
-          "livechat_group_id": "",
-          "more_info_url": "https://www.nextu.com",
-          "template": "Javascript",
-          "core_courses": [{
-              "idnumber": "tutor.resource.center",
-              "image_url": "https://s3.amazonaws.com/nextu-website-assets/images/program-icons/tutor_center.png",
-              "optional": false,
-              "position": 0
-            },
-            {
-              "idnumber": "tutor.onboarding",
-              "image_url": "https://s3.amazonaws.com/nextu-website-assets/images/program-icons/tutor_center.png",
-              "optional": true,
-              "position": 1
-            }
-          ],
-          "extra_courses": [],
-          "structure_unit": "courses",
-          "version_id": "2_0",
-          "next": "2_1"
-        },
-        "1_0": {
-          "livechat_group_id": null,
-          "structure_unit": "courses",
-          "full_icon": false,
-          "extra_courses": [],
-          "core_courses": [{
-            "optional": false,
-            "image_url": "",
-            "idnumber": "TUTOR.RESOURCE.CENTER"
-          }],
-          "template": "Javascript",
-          "more_info_url": "https://www.nextu.com",
-          "tutorchat_access": false,
-          "tutorcafe_access": false,
-          "hex_color": "#B1DA2C",
-          "image_url": "",
-          "description": "JavaScript se está apoderando de la web. Aprende a construir sitios web atractivos e interactivos de principio a fin. El Certificado en JavaScript te da las herramientas de programación y diseño esenciales para crear sitios web dinámicos.",
-          "name": "Centro de Recursos para el Tutor",
-          "version_id": "1_0"
-        },
-        "2_1": {
-          "next": "",
-          "version_id": "2_1",
-          "structure_unit": "courses",
-          "extra_courses": [],
-          "core_courses": [{
-              "idnumber": "tutor.onboarding",
-              "image_url": "https://s3.amazonaws.com/nextu-website-assets/images/course-badges/IT_SOPORTE_TECNICO/ITF-01-Funcionamiento-Computador.png",
-              "optional": true,
-              "position": 0
-            },
-            {
-              "idnumber": "tutor.resource.center",
-              "image_url": "https://s3.amazonaws.com/nextu-website-assets/images/course-badges/IT_SOPORTE_TECNICO/ITF-01-Funcionamiento-Computador.png",
-              "optional": false,
-              "position": 1
-            }
-          ],
-          "template": "Javascript",
-          "more_info_url": "https://www.nextu.com",
-          "livechat_group_id": "",
-          "tutorchat_access": false,
-          "tutorcafe_access": false,
-          "full_icon": true,
-          "hex_color": "#B1DA2C",
-          "image_url": "https://s3.amazonaws.com/nextu-website-assets/images/program-icons/tutor_center_icon.jpg",
-          "job_keywords": "",
-          "description": "El Centro de Recursos para el Tutor es una herramienta donde encontrarás documentación e información valiosa para apoyar el desempeño de tus actividades; desde que comienzas y a lo largo de tu permanencia como parte del equipo de Tutores NextU. ",
-          "name": "Centro de Recursos para el Tutor",
-          "change_notes": "Added Onboarding course."
-        }
-      },
-      "notes": "Includes Onboarding",
-      "include_in_all_suite": false,
-      "products": [],
-      "school": "TUTOR_CENTER"
-    },
-    {
-      "_id": {
         "$oid": "5858101d1c647d316861e410"
       },
       "product_id": "P_ANDROID_V2",
@@ -591,6 +494,4 @@
       "school": "P_DIGMKT_SCH"
     }
   ]
-
-
 }
